@@ -1,5 +1,5 @@
 # SDL_kitchensink_win32_prebuilt
-Prebuilt dev binaries for SDL_kitchensink
+Prebuilt dev binaries for [SDL_kitchensink](https://github.com/katajakasa/SDL_kitchensink)
 
 ffmpeg
 ----
